@@ -2,7 +2,7 @@
 
 * Este repositório contém o trabalho produzido para a aula de Python do professor, Jose Storopoli, no curso de Pós Graduação em Inteligência Artificial e Aprendizagem de Máquina.
 
-## Integrantes
+## Integrantes:
  
 * Aline Gomes de Araujo Santos - RA: 621100672
 * Fabiano Santana Souza - RA: 621102580
@@ -11,7 +11,7 @@
 
 
 
-## **Análise dos Filmes brasileiros e estrangeiros exibidos de 2009 a 2019.**
+## Análise dos Filmes brasileiros e estrangeiros exibidos de 2009 a 2019.
 
 O projeto teve como objetivo analisar a participação dos filmes nacionais nos cinemas brasileiros e a sua relação com os filmes estrangeiros, bem como o acesso ao cinema pela população.
 
